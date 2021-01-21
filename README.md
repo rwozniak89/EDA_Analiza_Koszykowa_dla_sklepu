@@ -13,3 +13,19 @@ Filtrowanie reguł
 https://en.wikipedia.org/wiki/Jaccard_index
 Rekomendowane produkty - nastęnicy
 Pewność rekomendacji, pewnosć, przytost
+
+## EDA - Explory Data Analysis
+
+### przegląd danych - co zawiera dataframe?
+
+### przekształcenia danych
+
+### Obserwacja 1 : Sprzedaż pieczywa jest wyższa rano niż wieczorem
+
+### Obserwacja 2 : Sprzedaż w sieci sklepów rośnie 20- 25% r/r.
+
+### Obserwacja 3 : Jak wprowadzenie zakazu handlu w niedziele odbiło się na dochodach sieci?
+
+### Obserwacja 4 : Sprzedaż poza Warszawą jest niższa o 20%
+
+### Obserwacja 5 : Występowanie korealcji zakupionych produktów dla klientów
